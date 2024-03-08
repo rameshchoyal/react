@@ -1,0 +1,30 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "Enhancing the react skill by building",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rameshchoyal/react.git"
+  },
+  "keywords": [],
+  "author": "ramesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rameshchoyal/react/issues"
+  },
+  "homepage": "https://github.com/rameshchoyal/react#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browerslist":[
+    "last 3 versions"
+  ]
+}
