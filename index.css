@@ -74,3 +74,8 @@
 .filter {
     display: flex;
 }
+
+.no-underline {
+    text-decoration: none; /* Remove underline */
+    color: inherit; /* Inherit color from parent (h1) */
+  }

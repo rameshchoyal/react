@@ -20,4 +20,6 @@ import Component from "path";
  export const Component;
  import {Component} from "path";
 
-
+# 2 types of Routing in web application
+- Cilent side Routing
+_ Server side Routing

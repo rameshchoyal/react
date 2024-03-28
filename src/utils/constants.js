@@ -4,3 +4,5 @@ export const CDN_URL =
 export const LOGO_URL = 
 "https://www.logodesign.net/logo-new/hotdog-on-top-of-a-food-truck-8847ld.png?nwm=1&nws=1&industry=restaurant-food";
 
+export const  MENU_API=
+ "https://www.swiggy.com/dapi/menu/pl?page-type=REGULAR_MENU&complete-menu=true&lat=17.406498&lng=78.47724389999999&restaurantId=";
