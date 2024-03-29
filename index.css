@@ -79,3 +79,8 @@
     text-decoration: none; /* Remove underline */
     color: inherit; /* Inherit color from parent (h1) */
   }
+
+  .user{
+    padding:10px;
+    border: 1px solid black;
+  }
