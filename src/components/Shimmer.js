@@ -1,19 +1,24 @@
 const Shimmer = () => {
   return (
-    <div className="shimmer-container">
-      <div className="shimmer-card"></div>
-      <div className="shimmer-card"></div>
-      <div className="shimmer-card"></div>
-      <div className="shimmer-card"></div>
-      <div className="shimmer-card"></div>
-      <div className="shimmer-card"></div>
-      <div className="shimmer-card"></div>
-      <div className="shimmer-card"></div>
-      <div className="shimmer-card"></div>
-      <div className="shimmer-card"></div>
-      <div className="shimmer-card"></div>
-      <div className="shimmer-card"></div>
-      <div className="shimmer-card"></div>
+    <div className="flex flex-wrap my-5">
+      <div className="m-4 p-4 w-[250px] bg-gray-100 rounded-lg h-96 "></div>
+      <div className="m-4 p-4 w-[250px] bg-gray-100 rounded-lg h-96 "></div>
+      <div className="m-4 p-4 w-[250px] bg-gray-100 rounded-lg h-96 "></div>
+      <div className="m-4 p-4 w-[250px] bg-gray-100 rounded-lg h-96 "></div>
+      <div className="m-4 p-4 w-[250px] bg-gray-100 rounded-lg h-96 "></div>
+      <div className="m-4 p-4 w-[250px] bg-gray-100 rounded-lg h-96 "></div>
+      <div className="m-4 p-4 w-[250px] bg-gray-100 rounded-lg h-96 "></div>
+      <div className="m-4 p-4 w-[250px] bg-gray-100 rounded-lg h-96 "></div>
+      <div className="m-4 p-4 w-[250px] bg-gray-100 rounded-lg h-96 "></div>
+      <div className="m-4 p-4 w-[250px] bg-gray-100 rounded-lg h-96 "></div>
+      <div className="m-4 p-4 w-[250px] bg-gray-100 rounded-lg h-96 "></div>
+      <div className="m-4 p-4 w-[250px] bg-gray-100 rounded-lg h-96 "></div>
+      <div className="m-4 p-4 w-[250px] bg-gray-100 rounded-lg h-96 "></div>
+      <div className="m-4 p-4 w-[250px] bg-gray-100 rounded-lg h-96 "></div>
+      <div className="m-4 p-4 w-[250px] bg-gray-100 rounded-lg h-96 "></div>
+      <div className="m-4 p-4 w-[250px] bg-gray-100 rounded-lg h-96 "></div>
+      <div className="m-4 p-4 w-[250px] bg-gray-100 rounded-lg h-96 "></div>
+      <div className="m-4 p-4 w-[250px] bg-gray-100 rounded-lg h-96 "></div>
     </div>
   );
 };
